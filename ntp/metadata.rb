@@ -1,0 +1,5 @@
+maintainer       "blackbull.pro"
+maintainer_email "corsair.alex@gmail.com"
+license          "Apache 2.0"
+description      "ntp"
+version          "0.0.2"
